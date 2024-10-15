@@ -1,0 +1,28 @@
+.fondo-arbol {
+    background-image: url('../img/Fondo.jpg') !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+
+.arbol-navidad {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+}
+
+.fila-nivel {
+    display: flex !important;
+    justify-content: center !important;
+    margin-bottom: 0.5rem !important;
+}
+
+.elemento-arbol {
+    text-align: center !important;
+    margin: 0 0.5rem !important;
+}
+
+.elemento-arbol img {
+    border-radius: 9999px !important;
+    width: 80px !important;
+    height: 80px !important;
+}
